@@ -10,6 +10,7 @@ class ViewController: UIViewController {
         configuration.defaultWebpagePreferences = prefs
         let webView = WKWebView(frame: .zero,
                                 configuration: configuration)
+        
         return webView
     }()
     

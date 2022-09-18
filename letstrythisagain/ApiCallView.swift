@@ -23,6 +23,7 @@ class ApiCallView: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         self.view.backgroundColor = UIColor.white
         floatingButton.addTarget(self, action: #selector(didTapButton), for: .touchUpInside)
         view.insertSubview(floatingButton, at: 1)
