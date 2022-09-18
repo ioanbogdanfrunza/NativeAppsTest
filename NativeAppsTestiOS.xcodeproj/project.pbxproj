@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		99CAA19928D6A22200F704B3 /* letstrythisagain.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = letstrythisagain.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		99CAA19928D6A22200F704B3 /* NativeAppsTestiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NativeAppsTestiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99CAA19C28D6A22200F704B3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		99CAA19E28D6A22200F704B3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		99CAA1A028D6A22200F704B3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		99CAA19A28D6A22200F704B3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				99CAA19928D6A22200F704B3 /* letstrythisagain.app */,
+				99CAA19928D6A22200F704B3 /* NativeAppsTestiOS.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		99CAA19828D6A22200F704B3 /* letstrythisagain */ = {
+		99CAA19828D6A22200F704B3 /* NativeAppsTestiOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 99CAA1AD28D6A22400F704B3 /* Build configuration list for PBXNativeTarget "letstrythisagain" */;
+			buildConfigurationList = 99CAA1AD28D6A22400F704B3 /* Build configuration list for PBXNativeTarget "NativeAppsTestiOS" */;
 			buildPhases = (
 				99CAA19528D6A22200F704B3 /* Sources */,
 				99CAA19628D6A22200F704B3 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = letstrythisagain;
+			name = NativeAppsTestiOS;
 			productName = letstrythisagain;
-			productReference = 99CAA19928D6A22200F704B3 /* letstrythisagain.app */;
+			productReference = 99CAA19928D6A22200F704B3 /* NativeAppsTestiOS.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 99CAA19428D6A22200F704B3 /* Build configuration list for PBXProject "letstrythisagain" */;
+			buildConfigurationList = 99CAA19428D6A22200F704B3 /* Build configuration list for PBXProject "NativeAppsTestiOS" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				99CAA19828D6A22200F704B3 /* letstrythisagain */,
+				99CAA19828D6A22200F704B3 /* NativeAppsTestiOS */,
 			);
 		};
 /* End PBXProject section */
@@ -341,7 +341,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		99CAA19428D6A22200F704B3 /* Build configuration list for PBXProject "letstrythisagain" */ = {
+		99CAA19428D6A22200F704B3 /* Build configuration list for PBXProject "NativeAppsTestiOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				99CAA1AB28D6A22400F704B3 /* Debug */,
@@ -350,7 +350,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		99CAA1AD28D6A22400F704B3 /* Build configuration list for PBXNativeTarget "letstrythisagain" */ = {
+		99CAA1AD28D6A22400F704B3 /* Build configuration list for PBXNativeTarget "NativeAppsTestiOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				99CAA1AE28D6A22400F704B3 /* Debug */,
